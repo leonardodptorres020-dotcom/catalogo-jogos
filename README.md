@@ -73,4 +73,17 @@ Os dados dos jogos vêm de um arquivo JSON local (`src/data/jogos.json`).
 
 ## Telas
 
-(Prints serão adicionados na próxima etapa.)
+### Home
+![Home](prints/home.png)
+
+### Catálogo
+![Catálogo](prints/catalogo.png)
+
+### Detalhes
+![Detalhes](prints/detalhes.png)
+
+### Favoritos
+![Favoritos](prints/favoritos.png)
+
+### Sobre
+![Sobre](prints/sobre.png)
