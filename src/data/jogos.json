@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Legend of Zelda: Breath of the Wild",
+    "genero": "Aventura",
+    "plataforma": "Nintendo Switch",
+    "ano": 2017,
+    "nota": 9.7,
+    "sinopse": "Link acorda após um sono de cem anos e explora um vasto reino de Hyrule em liberdade total para derrotar o Calamity Ganon.",
+    "imagem": "/capas/zelda.png"
+  },
+  {
+    "id": 2,
+    "titulo": "Super Mario Odyssey",
+    "genero": "Plataforma",
+    "plataforma": "Nintendo Switch",
+    "ano": 2017,
+    "nota": 9.4,
+    "sinopse": "Mario viaja por diversos reinos ao lado do chapéu Cappy para impedir o casamento forçado de Bowser com a Princesa Peach.",
+    "imagem": "/capas/mario.png"
+  },
+  {
+    "id": 3,
+    "titulo": "Minecraft",
+    "genero": "Sandbox",
+    "plataforma": "Multiplataforma",
+    "ano": 2011,
+    "nota": 9.3,
+    "sinopse": "Um mundo de blocos infinito onde o jogador coleta recursos, constrói estruturas e sobrevive a criaturas hostis.",
+    "imagem": "/capas/minecraft.png"
+  },
+  {
+    "id": 4,
+    "titulo": "God of War",
+    "genero": "Ação",
+    "plataforma": "PlayStation",
+    "ano": 2018,
+    "nota": 9.5,
+    "sinopse": "Kratos e seu filho Atreus embarcam em uma jornada pelos reinos da mitologia nórdica para espalhar as cinzas de sua esposa.",
+    "imagem": "/capas/godofwar.png"
+  },
+  {
+    "id": 5,
+    "titulo": "The Witcher 3: Wild Hunt",
+    "genero": "RPG",
+    "plataforma": "Multiplataforma",
+    "ano": 2015,
+    "nota": 9.6,
+    "sinopse": "O caçador de monstros Geralt de Rívia procura sua filha adotiva enquanto enfrenta a Caçada Selvagem em um mundo aberto sombrio.",
+    "imagem": "/capas/witcher3.png"
+  },
+  {
+    "id": 6,
+    "titulo": "Hollow Knight",
+    "genero": "Indie",
+    "plataforma": "Multiplataforma",
+    "ano": 2017,
+    "nota": 9.2,
+    "sinopse": "Um pequeno cavaleiro desce às profundezas do reino subterrâneo de Hallownest, repleto de insetos, segredos e chefes desafiadores.",
+    "imagem": "/capas/hollowknight.png"
+  },
+  {
+    "id": 7,
+    "titulo": "Celeste",
+    "genero": "Indie",
+    "plataforma": "Multiplataforma",
+    "ano": 2018,
+    "nota": 9.1,
+    "sinopse": "Madeline escala a montanha Celeste em um platformer desafiador que também fala sobre ansiedade e autoaceitação.",
+    "imagem": "/capas/celeste.png"
+  },
+  {
+    "id": 8,
+    "titulo": "Stardew Valley",
+    "genero": "Simulação",
+    "plataforma": "Multiplataforma",
+    "ano": 2016,
+    "nota": 9.0,
+    "sinopse": "Você herda a antiga fazenda do avô e reconstrói a vida no campo: plantar, pescar, criar animais e fazer amizades na vila.",
+    "imagem": "/capas/stardew.png"
+  },
+  {
+    "id": 9,
+    "titulo": "EA Sports FC",
+    "genero": "Esporte",
+    "plataforma": "Multiplataforma",
+    "ano": 2024,
+    "nota": 7.5,
+    "sinopse": "Simulador de futebol com clubes e seleções licenciados, modos de carreira e partidas online.",
+    "imagem": "/capas/fc.png"
+  },
+  {
+    "id": 10,
+    "titulo": "Rocket League",
+    "genero": "Esporte",
+    "plataforma": "Multiplataforma",
+    "ano": 2015,
+    "nota": 8.6,
+    "sinopse": "Futebol jogado com carros movidos a foguete, em partidas rápidas e competitivas.",
+    "imagem": "/capas/rocketleague.png"
+  }
+]
